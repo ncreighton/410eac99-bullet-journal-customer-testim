@@ -1,2 +1,59 @@
-# 410eac99-bullet-journal-customer-testim
-The bullet journal tool you'd build yourself — if you had the time.  Regular security updates. Works with WordPress multisite. Fully documented admin settings panel — no code required for configuration.  ## What's Included  - Bullet Journal Customer Testimonial And Review Display — fully configured and ready to use - Clean admin settings panel with
+=== Bullet Journal Customer Testimonial and Review Display WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Collect, curate, and display social proof with schema markup and widgets. Convert visitors with authentic Bullet Journal testimonials.
+
+== Description ==
+
+Collect, curate, and display social proof with schema markup and widgets. Convert visitors with authentic Bullet Journal testimonials.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Bullet Journal Customer Testimonial and Review Display WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ00j4ePaQAbRS5bucZL1Z)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ00j4ePaQAbRS5bucZL1Z)
+
